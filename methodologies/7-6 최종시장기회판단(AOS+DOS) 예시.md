@@ -1,3 +1,5 @@
+최종 시장 기회 판단 (AOS+DOS)
+
 ### **1. DOS 산출 근거 (Market Relevance 평가 기준)**
 
 ---
